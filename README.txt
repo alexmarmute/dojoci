@@ -1,0 +1,1 @@
+Instruções iniciais para usar o sistema venda.
